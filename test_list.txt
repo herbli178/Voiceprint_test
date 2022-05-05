@@ -1,0 +1,8 @@
+/Users/herbertli/Downloads/DS_10283_3061/vcc2018_training/VCC2SF1/10079.wav     1
+/Users/herbertli/Downloads/DS_10283_3061/vcc2018_training/VCC2SF2/10046.wav     2
+/Users/herbertli/Downloads/DS_10283_3061/vcc2018_training/VCC2SF3/20065.wav     3
+/Users/herbertli/Downloads/DS_10283_3061/vcc2018_training/VCC2SF4/20024.wav     4
+/Users/herbertli/Downloads/DS_10283_3061/vcc2018_training/VCC2SM1/10046.wav     5
+/Users/herbertli/Downloads/DS_10283_3061/vcc2018_training/VCC2SM2/10046.wav     6
+/Users/herbertli/Downloads/DS_10283_3061/vcc2018_training/VCC2SM3/20024.wav     7
+/Users/herbertli/Downloads/DS_10283_3061/vcc2018_training/VCC2SM4/20024.wav     8
